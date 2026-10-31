@@ -1,7 +1,7 @@
 # Haven downloads
 
-Official Haven Android downloads, when available, are on the [Releases page](https://github.com/favour187/haven-releases/releases).
+Official Haven downloads, when available, are on the [Releases page](https://github.com/favour187/haven-releases/releases).
 
-Choose the ARM64 APK for most modern Android phones or the ARM32 APK for older 32-bit phones. Releases include checksums; check the signing certificate against a trusted fingerprint as well.
+For Android, choose the ARM64 APK for most modern phones or ARM32 for older 32-bit phones. Some releases may also offer a Play App Bundle, web or desktop files; read the release notes for platform and signing limitations.
 
-This repository is for release information and binaries only. Haven's application source is maintained separately.
+Verify each release's checksums and compare Android APK signing certificates with a separately trusted fingerprint. This repository contains release information and binaries only; Haven's application source is maintained separately.
